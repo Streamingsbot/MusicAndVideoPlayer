@@ -30,7 +30,7 @@
 
 ## 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tumhumeyaadnhi/MusicAndVideoPlayer/edit/main/README.md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Streamingsbot/MusicAndVideoPlayer/edit/main/README.md)
 
 
 ## 📚 Variabel Yang Dibutuhkan
